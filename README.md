@@ -1,8 +1,6 @@
-### Hi there 👋
-
 # Hi, I'm [Flor Petrikovich](https://github.com/fpetrikovich)!
 
-<img align="center" alt="Florencia Petrikovich | Cover" src="https://github.com/fpetrikovich/fpetrikovich/blob/main/resources/cover.jpg" />
+<img align="center" alt="Florencia Petrikovich | Cover" src="https://github.com/fpetrikovich/fpetrikovich/blob/main/resources/cover_pic.jpg" />
 
 I am a highly motivated software engineer (BS, MEng) experienced in full-stack development, focused on back-end. I'm an energetic learner driven by curiosity and a passion for growth. I have a track record of finding practical solutions to engineering problems while quickly learning and adapting to complex sets of mature systems. Often praised for my high productivity without sacrificing my level of attention to detail. I have experience in big tech companies (Meta) and early-stage, YCombinator-backed startups.
 
